@@ -15,5 +15,7 @@ Python 3
 Django Framework
 HTML5 / CSS3
 OpenWeatherMap API
+<img width="986" height="578" alt="Screenshot 2025-11-16 010635" src="https://github.com/user-attachments/assets/64f6eb92-277c-4685-a277-9cd10b333412" />
+
 
 
