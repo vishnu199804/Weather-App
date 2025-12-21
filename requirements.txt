@@ -11,3 +11,6 @@ certifi==2025.11.12
 whitenoise
 dj-database-url
 psycopg2-binary
+Django>=4.2
+gunicorn
+requests
