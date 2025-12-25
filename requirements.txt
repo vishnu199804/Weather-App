@@ -14,3 +14,6 @@ psycopg2-binary
 Django>=4.2
 gunicorn
 requests
+Django
+gunicorn
+whitenoise
